@@ -116,6 +116,21 @@ To keep your CodeLingo installation secure:
    - Enable two-factor authentication where available
    - Regularly review active sessions and tokens
 
+
+Snapshots of Project
+
+1) <img width="1903" height="917" alt="image" src="https://github.com/user-attachments/assets/93366e4a-647d-42f3-a78e-9623789f92ba" />
+
+2) <img width="1896" height="915" alt="image" src="https://github.com/user-attachments/assets/3f89af0a-2d31-4591-a43d-320b65259988" />
+
+3) <img width="1905" height="920" alt="image" src="https://github.com/user-attachments/assets/297867a2-fbd1-4ae6-b614-deeee3e25e37" />
+
+4) <img width="1902" height="719" alt="image" src="https://github.com/user-attachments/assets/5296de98-fbf0-4d13-ac8d-b343799ba542" />
+
+5) <img width="1901" height="911" alt="image" src="https://github.com/user-attachments/assets/5342968c-8bf5-4dd5-9338-64c6620f351a" />
+
+6) <img width="1896" height="889" alt="image" src="https://github.com/user-attachments/assets/ddf1e305-b14a-4099-9e8c-cab2d1f3ea55" />
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.

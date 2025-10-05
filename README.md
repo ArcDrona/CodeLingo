@@ -117,19 +117,36 @@ To keep your CodeLingo installation secure:
    - Regularly review active sessions and tokens
 
 
-Snapshots of Project
+<h1>Snapshots of Project</h1>
 
 1) <img width="1903" height="917" alt="image" src="https://github.com/user-attachments/assets/93366e4a-647d-42f3-a78e-9623789f92ba" />
+<br/>
 
 2) <img width="1896" height="915" alt="image" src="https://github.com/user-attachments/assets/3f89af0a-2d31-4591-a43d-320b65259988" />
+<br/>
 
 3) <img width="1905" height="920" alt="image" src="https://github.com/user-attachments/assets/297867a2-fbd1-4ae6-b614-deeee3e25e37" />
+<br/>
 
 4) <img width="1902" height="719" alt="image" src="https://github.com/user-attachments/assets/5296de98-fbf0-4d13-ac8d-b343799ba542" />
+<br/>
 
 5) <img width="1901" height="911" alt="image" src="https://github.com/user-attachments/assets/5342968c-8bf5-4dd5-9338-64c6620f351a" />
+<br/>
 
 6) <img width="1896" height="889" alt="image" src="https://github.com/user-attachments/assets/ddf1e305-b14a-4099-9e8c-cab2d1f3ea55" />
+
+<br/>
+<br/>
+<br/>
+<h1>Working Model Video</h1>
+<br/>
+
+
+
+https://github.com/user-attachments/assets/f5d75069-458e-4ede-ba40-5975be9107e0
+
+
 
 ## 🤝 Contributing
 
